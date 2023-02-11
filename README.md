@@ -4,10 +4,8 @@ I have replicated the dcgan paper "https://arxiv.org/abs/1511.06434".
 
 1) StyleGAN paper 
 2) DCGAN paper
-3)
-4)
-5)
-
+3) ConidionalGAN
+4) CycleGAN
 
 ## Generative Models
 'What does "generative" mean in the name "Generative Adversarial Network"? "Generative" describes a class of statistical models that contrasts with discriminative models.

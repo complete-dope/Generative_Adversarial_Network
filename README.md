@@ -4,7 +4,7 @@ I have replicated the dcgan paper "https://arxiv.org/abs/1511.06434".
 
 1) StyleGAN paper 
 2) DCGAN paper
-3) ConidionalGAN
+3) SuperResolution GAN
 4) CycleGAN
 
 ## Generative Models
